@@ -1,0 +1,6 @@
+*.md linguist-documentation=false
+*.ts linguist-language=TypeScript
+*.jsx linguist-language=React
+*.css linguist-language=Css
+*.js linguist-language=Javascript
+
