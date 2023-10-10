@@ -26,7 +26,7 @@ jobs:
           cache: 'pnpm'
 
       - run: pnpm install
-      - run: pnpm docs:build
+      - run: pnpm build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
